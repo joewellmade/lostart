@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3488706, 2017-11-24T11:12:12-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: FF Magda Clean Web Regular by FontFont
+ * URL: https://www.myfonts.com/fonts/fontfont/ff-magda-clean/clean-regular/
+ * Copyright: 2011 Critzla, Cornel Windlin, Henning Krause published by FSI FontShop International GmbH
+ * Licensed pageviews: 50,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3488706
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/353bc2");
+
+  
+@font-face {font-family: 'FFMagdaCleanWebRegular';src: url('webfonts/353BC2_0_0.eot');src: url('webfonts/353BC2_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/353BC2_0_0.woff2') format('woff2'),url('webfonts/353BC2_0_0.woff') format('woff'),url('webfonts/353BC2_0_0.ttf') format('truetype');}
+ 
