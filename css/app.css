@@ -5937,3 +5937,7 @@ a {
   color: #fefefe;
   border-bottom: 1px solid #fefefe;
   padding-bottom: 2px; }
+
+a:hover, a:focus {
+  color: #808080;
+  border-bottom: 1px solid #808080; }
