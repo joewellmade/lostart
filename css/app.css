@@ -5922,12 +5922,18 @@ a.thumbnail {
 
 body {
   margin-top: 100px; }
+  @media screen and (max-width: 39.9375em) {
+    body {
+      margin: 20px 20px; } }
 
 h1, h2, h3, h4, h5, h6, a {
   font-family: 'FFMagdaCleanWebRegular'; }
 
 h4 {
   line-height: 1.1em; }
+  @media screen and (max-width: 39.9375em) {
+    h4 {
+      font-size: 1.8em; } }
 
 p {
   font-family: 'Karla', sans-serif;
